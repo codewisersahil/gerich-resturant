@@ -13,7 +13,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_about">
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">The Sahil's Kitchen was born out of love and respect for these humble deli creations, met with a desire to bring quality ingredients to the table. Simply put, we’re here to bring you a sandwich experience you can feel good about.In order to better serve our customers we opened our second location on March, 2023 in the city of PUNE.</p>
+        <p className="p__opensans">The Sahil's Kitchen was born out of love and respect for these humble deli creations, met with a desire to bring quality ingredients to the table. Simply put, we’re here to bring you a sandwich experience you can feel good about.In order to better serve our customers we opened our second location on March, 2023 in the city of Bangalore.</p>
         {/* <button type="button" className="custom__button">Know More</button> */}
       </div>
 
